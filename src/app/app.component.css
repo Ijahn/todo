@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 20px;
+    align-items: center;
+}
+
+button {
+    margin-left: 10px;
+}
+
+.myList {
+    display: flex;
+    flex-direction: column;
+}
